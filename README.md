@@ -10,8 +10,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
-Tile maps
-Levels
+Tile maps, Levels
 
 ## Created by
 Eric Lasse
