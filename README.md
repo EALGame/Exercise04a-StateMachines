@@ -1,4 +1,4 @@
-# Project04-Platformer
+# Project04a-Platformer
 
 ## Implementation
 Animation of man walking and jumping
